@@ -1,16 +1,15 @@
 <div align="center">
 
 # Hey, I'm Lakhvinder Singh 👋
-### Full-Stack Web Developer · Building websites that actually grow businesses
+### Full-Stack Web Developer · Building products that actually work
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=React+%2B+Node.js+Developer;Turning+bad+websites+into+growth+machines;Open+for+international+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=React+%2B+Node.js+Developer;I+build+SaaS+products+%26+business+websites;Open+for+international+projects)](https://git.io/typing-svg)
 
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakhvinder_1203)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhvinder-singh-57b054243)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lakhvinder_1203)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](#)
 
 </div>
 
@@ -18,30 +17,49 @@
 
 ## 🧠 What I Do
 
-I build **fast, clean, conversion-focused websites** for small businesses — the kind that actually bring in customers, not just look pretty.
+I build **fast, clean, production-ready web products** — from SaaS platforms to business websites. I care about one thing: does it actually work for the business?
 
-- 🔨 **Full-Stack Development** — React, Node.js, MongoDB, Express
-- 🎨 **UI/UX** — Clean, modern interfaces that work on every device
-- ⚡ **Performance** — Fast-loading sites (because slow = lost revenue)
-- 🌍 **Remote-ready** — Working with clients in the US, UK & beyond
+- ⚙️ **Full-Stack** — React, Node.js, MongoDB, Express, Python/Flask
+- 🤖 **AI-Powered Products** — LLM integrations, automation, real-time systems
+- 🎨 **UI/UX** — Premium, modern interfaces that convert
+- 🌍 **Open to remote work** — US, UK, Australia & beyond
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-> *Real work. Real results.*
+### 🤖 [Rudraxha.ai](https://getrudraxha.in) — AI Customer Support Platform
+> *"The always-on AI agent that runs your entire customer experience."*
 
-### 🍕 [Restaurant Website — Full Stack](https://github.com/thor8126)
-Online ordering system, menu management, mobile-first design. Increased online orders for a local restaurant by streamlining the booking flow.
-`React` `Node.js` `MongoDB` `Stripe`
+A full SaaS product — AI-powered customer support agent that handles chat, email & WhatsApp for ecommerce and real estate businesses. Resolves 92% of queries autonomously, responds in under 2 seconds, supports 140+ languages.
 
-### 🛒 [E-Commerce Storefront](https://github.com/thor8126)
-Product catalog, cart, checkout, and admin dashboard. Built for a small retail business going online for the first time.
-`React` `Redux` `Express` `MySQL`
+**What I built:**
+- Live AI chat widget embeddable via a single script tag
+- Multi-channel support: website chat, email, WhatsApp, Instagram DMs
+- Order tracking, booking automation, and review management
+- Owner dashboard with sentiment trends and resolution analytics
+- Tiered pricing system ($0 / $99 / Custom) with 14-day trial flow
 
-### 📊 [Business Dashboard](https://github.com/thor8126)
-Analytics dashboard with real-time data, clean charts, and role-based access control.
-`React` `Flask` `Python` `MongoDB`
+`React` `Node.js` `MongoDB` `LLM Integration` `WebSockets` `REST APIs`
+
+🔗 **Live:** [getrudraxha.in](https://getrudraxha.in)
+
+---
+
+### ✈️ [VisaFlow](https://vfs-assist.vercel.app) — Premium Visa Appointment Platform
+> *"Curated global destinations. Priority allocations."*
+
+A sleek, editorial-style web platform for a visa appointment acquisition service. Covers priority slots for Schengen, UK, US, Japan, UAE, Australia and more. Features a complete booking flow with destination selection, visa type, appointment centre, and multi-channel contact routing.
+
+**What I built:**
+- Editorial magazine-style UI with cinematic destination imagery
+- Multi-step booking form covering 20+ VFS application centres across India
+- WhatsApp / Telegram / Email contact routing
+- Mobile-first, fast-loading, deployed on Vercel
+
+`React` `Vercel` `Custom CSS` `Responsive Design`
+
+🔗 **Live:** [vfs-assist.vercel.app](https://vfs-assist.vercel.app)
 
 ---
 
@@ -95,11 +113,11 @@ Analytics dashboard with real-time data, clean charts, and role-based access con
 
 ## 💬 Let's Work Together
 
-I'm currently **open to freelance projects** — especially from US/UK/Australian small businesses who want a website that actually works for them.
+I'm currently **open to freelance projects** — websites, SaaS products, AI integrations — especially for US/UK/Australian businesses.
 
-If you have a business and your website isn't bringing you customers — let's fix that.
+If you have an idea or a broken website that needs fixing, let's talk.
 
-📩 **Reach me on** [LinkedIn](https://linkedin.com/in/lakhvinder-singh-57b054243) or [Twitter](https://twitter.com/lakhvinder_1203)
+📩 [LinkedIn](https://linkedin.com/in/lakhvinder-singh-57b054243) · [Twitter](https://twitter.com/lakhvinder_1203) · [Instagram](https://instagram.com/lakhvinder_1203)
 
 ---
 
@@ -107,6 +125,6 @@ If you have a business and your website isn't bringing you customers — let's f
 
 [![](https://visitcount.itsvg.in/api?id=thor8126&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-*"I don't just build websites. I build things that make businesses money."*
+*Built in India. Built for the world.*
 
 </div>
