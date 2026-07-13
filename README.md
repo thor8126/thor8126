@@ -48,7 +48,8 @@ If you're hiring for a team that ships web products with JavaScript, React, and 
 **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL
 **Frontend:** React.js, Redux, React Router, Bootstrap, SASS, Responsive / Mobile-First Design
 **Backend:** Node.js, Express.js, Flask, REST API design, JWT & Session Auth, Passport.js, OAuth 2.0
-**Databases:** MongoDB, Mongoose, MySQL
+**Databases:** MongoDB, Mongoose, MySQL, SQLite
+**Desktop & Systems:** Python GUI (Tkinter), hardware integration (barcode & biometric scanners), PyInstaller packaging
 **Tools & Cloud:** Git, GitHub, Postman, Nginx, Vercel, Render, DigitalOcean, Netlify
 
 <p>
@@ -75,6 +76,19 @@ If you're hiring for a team that ships web products with JavaScript, React, and 
 ---
 
 ## 🚀 Featured Projects
+
+### 🎖️ Gun Attendance & Biometric Verification System — Indian Army (INSAS Rifle Management)
+A production **desktop application deployed for armory management in the Indian Army**, tracking the issue and return of INSAS rifles using **barcode scanning + biometric fingerprint verification**.
+
+- **Weapon registry** with barcode enrollment (serial number, butt number, regiment) and **fingerprint capture** for each soldier
+- Real-time **issue/return attendance logging** backed by a crash-safe SQLite (WAL) database
+- **Encrypted authentication** (bcrypt) with role-based access and audit logging
+- Automated **Excel report generation**, bulk CSV inventory import, and live **hardware/driver status monitoring**
+- Integrated vendor **drivers for fingerprint scanners & barcode readers**; shipped as a standalone Windows executable (PyInstaller)
+- Iterated across **8 production versions** based on on-ground feedback
+
+**Stack:** Python · Tkinter · SQLite · python-barcode / pyzbar · bcrypt · openpyxl · pywin32 · PyInstaller
+🔒 *Private / confidential deployment — walkthrough available on request.*
 
 ### 🤖 Rudraxha.ai — AI Customer Support Platform (SaaS)
 Full SaaS product: an AI agent that handles customer support over website chat, email, WhatsApp, and Instagram for e-commerce and real-estate businesses.
