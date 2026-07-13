@@ -26,7 +26,7 @@ I build production web applications end to end: clean React frontends, REST APIs
 
 ## 👋 About Me
 
-I'm a **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I design and build complete web products — from database schema and authentication to responsive UI and deployment — and I care about code that is readable, tested against real use, and actually solves the problem.
+I'm a **Full-Stack Web Developer** with **~4 years of experience** — 2 years freelancing for clients worldwide, preceded by 2 years as a Teaching Assistant at Coding Ninjas. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and build complete web products — from database schema and authentication to responsive UI and deployment — with a focus on code that is readable, reliable, and actually solves the problem.
 
 - 🔭 Comfortable across the **entire stack**: React/Redux on the front, Node.js/Express REST APIs on the back, MongoDB/MySQL for data.
 - 🧩 Experience with **authentication (Passport, JWT, OAuth), third-party API integration** (Spotify, payments, LLMs), and **cloud deployment** (Vercel, Render, DigitalOcean).
@@ -40,6 +40,21 @@ I'm a **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, 
 > **Open to full-time roles** as a **Full-Stack / MERN / Frontend / Backend Developer**, **remote or on-site (open to relocation)**.
 
 If you're hiring for a team that ships web products with JavaScript, React, and Node.js, I'd love to talk — **[lakhabhayi@gmail.com](mailto:lakhabhayi@gmail.com)**.
+
+---
+
+## 💼 Experience
+
+### Freelance Full-Stack Developer &nbsp;·&nbsp; Self-employed
+*2024 – Present · ~2 years*
+- Design, build, and ship full web products for international clients — SaaS platforms, business websites, and internal tools — end to end across the MERN stack.
+- Own the complete lifecycle: requirements, architecture, frontend, REST APIs, database design, deployment, and post-launch support.
+- Delivered products including an AI customer-support SaaS and a visa-appointment booking platform (see Projects below).
+
+### Teaching Assistant &nbsp;·&nbsp; Coding Ninjas
+*2022 – 2024 · ~2 years*
+- Mentored students in programming fundamentals, Data Structures & Algorithms, and web development.
+- Resolved coding doubts one-on-one, reviewed assignments, and guided learners through hands-on projects.
 
 ---
 
