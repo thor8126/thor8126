@@ -117,8 +117,11 @@ Full e-commerce application with product catalog, cart, and checkout.
 
 <div align="center">
 
-![Lakhvinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=thor8126&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thor8126&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/thor8126?style=for-the-badge&logo=github&logoColor=white&color=2F81F7&label=Followers)
+![Public repos](https://img.shields.io/badge/Public%20Repos-65%2B-2F81F7?style=for-the-badge&logo=github&logoColor=white)
+
+![Lakhvinder's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thor8126&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thor8126&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
