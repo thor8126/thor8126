@@ -16,6 +16,7 @@ I build production web applications end to end: clean React frontends, REST APIs
 
 📍 Uttarakhand, India &nbsp;·&nbsp; 🟢 Open to work &nbsp;·&nbsp; 🌍 Remote / Relocation
 
+[![Resume](https://img.shields.io/badge/%F0%9F%93%84%20Resume-Download-2F81F7?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1K7XwTZos3E4dQfrVKhNI_vZjXwMF716T)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakhabhayi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhvinder-singh-57b054243)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thor8126)
@@ -166,6 +167,6 @@ Full-stack messaging app with real-time delivery, authentication, and persistent
 
 I'm actively **open to full-time Full-Stack / MERN Developer opportunities**. The fastest way to reach me:
 
-**📧 [lakhabhayi@gmail.com](mailto:lakhabhayi@gmail.com)** &nbsp;·&nbsp; **💼 [LinkedIn](https://linkedin.com/in/lakhvinder-singh-57b054243)** &nbsp;·&nbsp; **🐙 [GitHub](https://github.com/thor8126)**
+**📧 [lakhabhayi@gmail.com](mailto:lakhabhayi@gmail.com)** &nbsp;·&nbsp; **💼 [LinkedIn](https://linkedin.com/in/lakhvinder-singh-57b054243)** &nbsp;·&nbsp; **🐙 [GitHub](https://github.com/thor8126)** &nbsp;·&nbsp; **📄 [Resume](https://drive.google.com/uc?export=download&id=1K7XwTZos3E4dQfrVKhNI_vZjXwMF716T)**
 
 <sub>Full-Stack Developer · MERN Stack · React · Node.js · Express · MongoDB · JavaScript · TypeScript · Python · REST APIs · Remote-friendly · Based in India</sub>
