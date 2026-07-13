@@ -144,6 +144,8 @@ Full-stack messaging app with real-time delivery, authentication, and persistent
 **Stack:** React · Node.js · Socket.io · MongoDB
 🔗 Live: **[x-chat-livid.vercel.app](https://x-chat-livid.vercel.app)** · 💻 [Code](https://github.com/thor8126/X-chat)
 
+**More builds →** &nbsp; [🖥️ Windows 11 Clone](https://win11-gold.vercel.app) · [🎧 iPod Clone](https://ipod-js-phi.vercel.app) · [🛍️ Shopsee (E-commerce)](https://shopsee.vercel.app) · [🛒 BusyBuy](https://busy-buy-redux.vercel.app) · [📚 all repositories](https://github.com/thor8126?tab=repositories)
+
 ---
 
 ## 📊 GitHub Activity
