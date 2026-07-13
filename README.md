@@ -20,6 +20,7 @@ I build production web applications end to end: clean React frontends, REST APIs
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakhabhayi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhvinder-singh-57b054243)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thor8126)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lakh1203/)
 
 </div>
 
@@ -27,7 +28,7 @@ I build production web applications end to end: clean React frontends, REST APIs
 
 ## 👋 About Me
 
-I'm a **Full-Stack Web Developer** with **~4 years of experience** — 2 years freelancing for clients worldwide, preceded by 2 years as a Teaching Assistant at Coding Ninjas. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and build complete web products — from database schema and authentication to responsive UI and deployment — with a focus on code that is readable, reliable, and actually solves the problem.
+I'm a **Full-Stack Web Developer** with **~4 years of combined experience** — freelancing for clients worldwide and, earlier, as a Teaching Assistant at Coding Ninjas. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and build complete web products — from database schema and authentication to responsive UI and deployment — with a focus on code that is readable, reliable, and actually solves the problem.
 
 - 🔭 Comfortable across the **entire stack**: React/Redux on the front, Node.js/Express REST APIs on the back, MongoDB/MySQL for data.
 - 🧩 Experience with **authentication (Passport, JWT, OAuth), third-party API integration** (Spotify, payments, LLMs), and **cloud deployment** (Vercel, Render, DigitalOcean).
@@ -47,13 +48,13 @@ If you're hiring for a team that ships web products with JavaScript, React, and 
 ## 💼 Experience
 
 ### Freelance Full-Stack Developer &nbsp;·&nbsp; Self-employed
-*2024 – Present · ~2 years*
+*2024 – Present · Remote*
 - Design, build, and ship full web products for international clients — SaaS platforms, business websites, and internal tools — end to end across the MERN stack.
 - Own the complete lifecycle: requirements, architecture, frontend, REST APIs, database design, deployment, and post-launch support.
 - Delivered products including an AI customer-support SaaS and a visa-appointment booking platform (see Projects below).
 
 ### Full-Stack Teaching Assistant &nbsp;·&nbsp; Coding Ninjas
-*2022 – 2024 · ~2 years*
+*Apr 2023 – Jan 2025 · Gurugram*
 - Teaching Assistant for the **Full-Stack Web Development** course — mentored students on JavaScript, React, Node.js, Express, MongoDB, and REST APIs.
 - Resolved coding doubts one-on-one, reviewed assignments and projects, and helped learners debug and ship their full-stack builds.
 
