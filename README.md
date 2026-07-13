@@ -51,10 +51,10 @@ If you're hiring for a team that ships web products with JavaScript, React, and 
 - Own the complete lifecycle: requirements, architecture, frontend, REST APIs, database design, deployment, and post-launch support.
 - Delivered products including an AI customer-support SaaS and a visa-appointment booking platform (see Projects below).
 
-### Teaching Assistant &nbsp;·&nbsp; Coding Ninjas
+### Full-Stack Teaching Assistant &nbsp;·&nbsp; Coding Ninjas
 *2022 – 2024 · ~2 years*
-- Mentored students in programming fundamentals, Data Structures & Algorithms, and web development.
-- Resolved coding doubts one-on-one, reviewed assignments, and guided learners through hands-on projects.
+- Teaching Assistant for the **Full-Stack Web Development** course — mentored students on JavaScript, React, Node.js, Express, MongoDB, and REST APIs.
+- Resolved coding doubts one-on-one, reviewed assignments and projects, and helped learners debug and ship their full-stack builds.
 
 ---
 
@@ -134,11 +134,15 @@ Full-stack music player with search, playback, and favourites, backed by the Spo
 **Stack:** Node.js · Express · MongoDB · Passport.js · Spotify API · Handlebars
 🔗 Live: **[musix-tvin.onrender.com](https://musix-tvin.onrender.com/)** · 💻 [Code](https://github.com/thor8126/Music-Player)
 
-### 🛒 ProShop — MERN E-Commerce Store
-Full e-commerce application with product catalog, cart, and checkout.
+### 💬 X-Chat — Real-Time Chat Application
+Full-stack messaging app with real-time delivery, authentication, and persistent chat history.
 
-**Stack:** React · Redux · Node.js · Express · MongoDB
-🔗 Live: **[pro-shop-omega.vercel.app](https://pro-shop-omega.vercel.app)**
+- Instant messaging over **WebSockets (Socket.io)**
+- User registration/login with **message history stored in MongoDB**
+- Responsive UI across desktop and mobile
+
+**Stack:** React · Node.js · Socket.io · MongoDB
+🔗 Live: **[x-chat-livid.vercel.app](https://x-chat-livid.vercel.app)** · 💻 [Code](https://github.com/thor8126/X-chat)
 
 ---
 
