@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="330" viewBox="0 0 590 330" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#58A6FF" stop-opacity="0.35"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#A371F7" stop-opacity="0.30"/><stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#E6EDF3" fill-opacity="0.07"/>
+  </pattern>
+  
+</defs>
+<clipPath id="clip"><rect width="590" height="330" rx="18"/></clipPath>
+<g clip-path="url(#clip)">
+  <rect width="590" height="330" fill="#0D1117"/>
+  <rect width="590" height="330" fill="url(#dots)"/>
+  
+<circle cx="530" cy="30" r="220" fill="url(#glowA)"/>
+
+<rect x="370" y="90" width="150" height="40" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="386" y="105" width="90" height="10" rx="5" fill="#E6EDF3" fill-opacity="0.35"/>
+<rect x="410" y="142" width="150" height="40" rx="14" fill="url(#g)" fill-opacity="0.9"/>
+<rect x="426" y="157" width="104" height="10" rx="5" fill="#0D1117" fill-opacity="0.5"/>
+<rect x="370" y="194" width="120" height="40" rx="14" fill="#161B22" stroke="#30363D"/>
+<circle cx="400" cy="214" r="4" fill="#E6EDF3" fill-opacity="0.6"/><circle cx="416" cy="214" r="4" fill="#E6EDF3" fill-opacity="0.4"/><circle cx="432" cy="214" r="4" fill="#E6EDF3" fill-opacity="0.2"/>
+<rect x="40" y="38" width="88" height="26" rx="13" fill="#58A6FF" fill-opacity="0.15" stroke="#58A6FF" stroke-opacity="0.5"/>
+<text x="52" y="56" font-size="12" font-weight="700" letter-spacing="1.2" fill="#58A6FF">AI SAAS</text>
+<text x="40" y="112" font-size="30" font-weight="800" fill="#E6EDF3" letter-spacing="-0.5">Rudraxha.ai</text>
+<text x="40" y="150" font-size="17" fill="#8B949E">AI support agent for chat, email,</text><text x="40" y="176" font-size="17" fill="#8B949E">WhatsApp and Instagram.</text>
+<rect x="40" y="218" width="64" height="28" rx="14.0" fill="#161B22" stroke="#30363D"/><text x="72.0" y="236.68" text-anchor="middle" font-size="13" fill="#E6EDF3" fill-opacity="0.85">React</text><rect x="112" y="218" width="80" height="28" rx="14.0" fill="#161B22" stroke="#30363D"/><text x="152.0" y="236.68" text-anchor="middle" font-size="13" fill="#E6EDF3" fill-opacity="0.85">Node.js</text><rect x="200" y="218" width="80" height="28" rx="14.0" fill="#161B22" stroke="#30363D"/><text x="240.0" y="236.68" text-anchor="middle" font-size="13" fill="#E6EDF3" fill-opacity="0.85">MongoDB</text><rect x="288" y="218" width="40" height="28" rx="14.0" fill="#161B22" stroke="#30363D"/><text x="308.0" y="236.68" text-anchor="middle" font-size="13" fill="#E6EDF3" fill-opacity="0.85">AI</text>
+<text x="40" y="296" font-size="15" font-weight="600" fill="#58A6FF">getrudraxha.in  ↗</text>
+
+</g>
+<rect x="0.5" y="0.5" width="589" height="329" rx="18" fill="none" stroke="#30363D"/>
+</svg>

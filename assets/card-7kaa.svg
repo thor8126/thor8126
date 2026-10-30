@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="280" viewBox="0 0 590 280" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#58A6FF" stop-opacity="0.35"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#A371F7" stop-opacity="0.30"/><stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#E6EDF3" fill-opacity="0.07"/>
+  </pattern>
+  
+</defs>
+<clipPath id="clip"><rect width="590" height="280" rx="18"/></clipPath>
+<g clip-path="url(#clip)">
+  <rect width="590" height="280" fill="#0D1117"/>
+  <rect width="590" height="280" fill="url(#dots)"/>
+  
+<circle cx="530" cy="30" r="220" fill="url(#glowA)"/>
+
+<g fill="url(#g)" fill-opacity="0.9">
+  <rect x="380" y="110" width="40" height="110" rx="3"/>
+  <rect x="510" y="110" width="40" height="110" rx="3"/>
+  <rect x="410" y="140" width="110" height="80" rx="3" fill-opacity="0.6"/>
+  <rect x="440" y="70" width="50" height="150" rx="3"/>
+</g>
+<g fill="#0D1117">
+  <rect x="386" y="100" width="10" height="14"/><rect x="404" y="100" width="10" height="14"/>
+  <rect x="516" y="100" width="10" height="14"/><rect x="534" y="100" width="10" height="14"/>
+  <rect x="446" y="60" width="10" height="14"/><rect x="474" y="60" width="10" height="14"/>
+  <path d="M 450 220 v -36 a 15 15 0 0 1 30 0 v 36 z"/>
+</g>
+<line x1="465" y1="70" x2="465" y2="26" stroke="#E6EDF3" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M 465 26 l 28 9 l -28 9 z" fill="#A371F7"/>
+<rect x="40" y="38" width="141" height="26" rx="13" fill="#3FB9A2" fill-opacity="0.15" stroke="#3FB9A2" stroke-opacity="0.5"/>
+<text x="52" y="56" font-size="12" font-weight="700" letter-spacing="1.2" fill="#3FB9A2">STRATEGY GAME</text>
+<text x="40" y="112" font-size="30" font-weight="800" fill="#E6EDF3" letter-spacing="-0.5">Seven Kingdoms</text>
+<text x="40" y="150" font-size="17" fill="#8B949E">Classic real-time strategy,</text><text x="40" y="176" font-size="17" fill="#8B949E">built on the open-source C++ engine.</text>
+<rect x="40" y="210" width="48" height="28" rx="14.0" fill="#161B22" stroke="#30363D"/><text x="64.0" y="228.68" text-anchor="middle" font-size="13" fill="#E6EDF3" fill-opacity="0.85">C++</text><rect x="96" y="210" width="48" height="28" rx="14.0" fill="#161B22" stroke="#30363D"/><text x="120.0" y="228.68" text-anchor="middle" font-size="13" fill="#E6EDF3" fill-opacity="0.85">SDL</text>
+
+
+</g>
+<rect x="0.5" y="0.5" width="589" height="279" rx="18" fill="none" stroke="#30363D"/>
+</svg>
