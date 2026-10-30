@@ -43,23 +43,16 @@ I like owning a product end to end — the data model, the API, the interface, a
 
 ### ⚔️ 7KAA — Seven Kingdoms: Ancient Adversaries
 Work on the classic real-time strategy game, built on its open-source C++ codebase (GPL-2.0).
-<!-- TODO: one line on what you built — port / mod / web build / multiplayer etc. -->
 
 `C++` `SDL` `Game Dev`
-<br/>
-<!-- TODO: add links --> 🔗 [Play](#) · 💻 [Code](#)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🫧 Wonderpop
 A casual game built from scratch.
-<!-- TODO: one line on gameplay + what's interesting technically -->
 
-<!-- TODO: stack tags -->
 `Game Dev`
-<br/>
-<!-- TODO: add links --> 🔗 [Play](#) · 💻 [Code](#)
 
 </td>
 </tr>
@@ -132,17 +125,6 @@ Real-time messaging over Socket.io with auth and persistent history in MongoDB.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,mysql,python,flask,cpp,html,css,sass,git,vercel&perline=8" />
-
-</div>
-
-<br/>
-
-## ◆ Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thor8126&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thor8126&theme=transparent&hide_border=true&layout=compact&title_color=58A6FF&text_color=8B949E" />
 
 </div>
 
