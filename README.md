@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Lakhvinder%20Singh&fontSize=46&fontColor=E6EDF3&fontAlignY=55&desc=Full-Stack%20Engineer%20%C2%B7%20Game%20%26%20Product%20Builder&descSize=16&descAlignY=82&descColor=8B949E" width="100%" />
+<h1>Lakhvinder Singh</h1>
 
-**I build software that ships — web platforms, desktop systems, and games.**
-React and Node.js on the web, Python on the desktop, C++ when the game calls for it.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+Engineer;Web+platforms+%C2%B7+Desktop+systems+%C2%B7+Games;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+C%2B%2B" /></a>
 
-<a href="https://getrudraxha.in"><img src="https://img.shields.io/badge/getrudraxha.in-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" /></a>
-<a href="https://linkedin.com/in/lakhvinder1203"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="mailto:lakhabhayi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" /></a>
-<a href="https://leetcode.com/u/lakh1203/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=58A6FF" /></a>
+I build software that ships — React and Node.js on the web,<br/>Python on the desktop, C++ when the game calls for it.
+
+<br/>
+
+<a href="https://getrudraxha.in"><img src="https://img.shields.io/badge/Web-getrudraxha.in-58A6FF?style=flat-square&labelColor=161B22" /></a>
+<a href="https://linkedin.com/in/lakhvinder1203"><img src="https://img.shields.io/badge/LinkedIn-lakhvinder1203-58A6FF?style=flat-square&labelColor=161B22" /></a>
+<a href="mailto:lakhabhayi@gmail.com"><img src="https://img.shields.io/badge/Email-lakhabhayi@gmail.com-58A6FF?style=flat-square&labelColor=161B22" /></a>
+<a href="https://leetcode.com/u/lakh1203/"><img src="https://img.shields.io/badge/LeetCode-lakh1203-58A6FF?style=flat-square&labelColor=161B22" /></a>
 
 <sub>📍 Uttarakhand, India</sub>
 
@@ -20,11 +23,11 @@ React and Node.js on the web, Python on the desktop, C++ when the game calls for
 
 ```js
 const lakhvinder = {
-  role:      "Full-Stack Engineer",
-  building:  ["Rudraxha.ai", "browser & desktop games", "tools for real operations"],
-  stack:     ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Python", "C++"],
-  previously:"Full-Stack Teaching Assistant @ Coding Ninjas (2023 – 2025)",
-  shipping:  "independently since 2024",
+  role:       "Full-Stack Engineer",
+  building:   ["Rudraxha.ai", "browser & desktop games", "tools for real operations"],
+  stack:      ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Python", "C++"],
+  previously: "Full-Stack Teaching Assistant @ Coding Ninjas (2023 – 2025)",
+  shipping:   "independently since 2024",
 };
 ```
 
