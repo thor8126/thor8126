@@ -29,12 +29,26 @@
   <img src="assets/card-wonderpop.svg" width="49%" alt="Wonderpop" />
 </p>
 
+<h3>More builds</h3>
+
+<p align="center">
+  <a href="https://win11-gold.vercel.app"><img src="assets/mini-win11.svg" width="32.5%" alt="Windows 11 in the browser" /></a>
+  <a href="https://github.com/thor8126/Music-Player"><img src="assets/mini-music.svg" width="32.5%" alt="Music Player" /></a>
+  <a href="https://github.com/thor8126?tab=repositories"><img src="assets/mini-repos.svg" width="32.5%" alt="All repositories" /></a>
+</p>
+
 <h3>Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,mysql,python,flask,cpp,git,vercel&perline=13" />
 </p>
 
+<br/>
+
 <p align="center">
-  <sub><a href="https://win11-gold.vercel.app">Windows 11 in the browser</a> &nbsp;·&nbsp; <a href="https://github.com/thor8126/Music-Player">Music Player</a> &nbsp;·&nbsp; <a href="https://github.com/thor8126?tab=repositories">All repositories</a></sub>
+  <img src="https://raw.githubusercontent.com/thor8126/thor8126/output/snake.svg" width="100%" alt="Contribution snake" />
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="" />
 </p>

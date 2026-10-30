@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#58A6FF" stop-opacity="0.35"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#A371F7" stop-opacity="0.30"/><stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#E6EDF3" fill-opacity="0.07"/>
+  </pattern>
+  
+</defs>
+<style>
+  .w1{animation:drift 9s ease-in-out infinite alternate}
+  .w2{animation:drift 13s ease-in-out infinite alternate-reverse}
+  @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-120px)}}
+</style>
+<g class="w2" opacity="0.35"><path d="M -200 80 C 0 30 200 130 400 80 S 800 30 1000 80 S 1400 130 1600 80 V 150 H -200 Z" fill="#A371F7"/></g>
+<g class="w1" opacity="0.55"><path d="M -200 100 C 0 60 200 140 400 100 S 800 60 1000 100 S 1400 140 1600 100 V 150 H -200 Z" fill="url(#g)"/></g>
+<text x="600" y="40" text-anchor="middle" font-size="15" fill="#8B949E">Thanks for stopping by</text>
+</svg>
