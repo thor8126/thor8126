@@ -14,6 +14,10 @@
 <h3>Featured work</h3>
 
 <p align="center">
+  <img src="assets/card-aisha.svg" width="100%" alt="Aisha AI — anime-style AI assistant with complete system automation" />
+</p>
+
+<p align="center">
   <img src="assets/card-armory.svg" width="100%" alt="Armory Biometric System — Indian Army" />
 </p>
 
